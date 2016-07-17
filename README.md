@@ -12,7 +12,7 @@ a5c3785ed8d6a35868bc169f07<script type='text/javascript'>alert('xss');</script>e
 
 https://raw.githubusercontent.com/runcom/SATraining/master/index.html
 
- <IMG src='&{logo(manufacturer("widget"))};' alt="logo">
+ <IMG src='https://raw.githubusercontent.com/runcom/SATraining/master/index.html' alt="logo">
 
 [Gotcha](javascript&#58this;alert(1&#41;)
 
