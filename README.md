@@ -14,7 +14,7 @@ a5c3785ed8d6a35868bc169f07<script type='text/javascript'>alert('xss');</script>e
 
 [Gotcha](javascript&#58this;alert(1&#41;)
 
-1. hello <img name="n" h
-    `ref`
-    &#61;"javascript&#58this;alert(1&#41;">*you*</a>
+1. hello <img name="n" s
+    > src
+    > &#61;"javascript&#58this;alert(1&#41;">*you*</a>
 3. &#61;"javascript&#58this;alert(1&#41;">*you*</a>
