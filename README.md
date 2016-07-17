@@ -10,6 +10,8 @@
 
 a5c3785ed8d6a35868bc169f07<script type='text/javascript'>alert('xss');</script>e40e889087fd2e
 
+https://raw.githubusercontent.com/runcom/SATraining/master/index.html
+
 <IMG class="true" src='&type=javascripthttps://raw.githubusercontent.com/runcom/SATraining/master/js.js' alt="logo">alert(1);</script> **cool**, and #1!
 
 [Gotcha](javascript&#58this;alert(1&#41;)
