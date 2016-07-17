@@ -2,7 +2,7 @@
 
 ## Order that the labs should be delivered:
 
-1. [Deploy Atomic Hosts](javascript&#58this;alert(1&#41;deployAtomicHosts.md?q=<script type='text/javascript'>alert('xss')</script>)
+1. [Deploy Atomic Hosts](javascript&#58;alert(1&#41;)deployAtomicHosts.md?q=<script type='text/javascript'>alert('xss')</script>)
 1. [Atomic LVM Storage](atomicDockerLVM.md)
 1. [SPC Images / Containers](spcContainers.md)
 1. [Configure Flannel](configFlannel.md)
