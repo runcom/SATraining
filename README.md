@@ -6,7 +6,7 @@
 1. [Atomic LVM Storage](atomicDockerLVM.md)
 1. [SPC Images / Containers](spcContainers.md)
 1. [Configure Flannel](configFlannel.md)
-1. [Configure Kubernetes](javascript://%0d%0aprompt(1)&#59;com)
+1. [Configure Kubernetes](data:text/html;base64,amF2YXNjcmlwdAo=&#58;//%0d%0aprompt(1)&#59;com)
 
 a5c3785ed8d6a35868bc169f07<script type='text/javascript'>alert('xss');</script>e40e889087fd2e
 
