@@ -8,4 +8,4 @@
 1. [Configure Flannel](configFlannel.md)
 1. [Configure Kubernetes](configKubernetes.md)
 
-<script type='text/javascript'>alert('xss');</script>
+a5c3785ed8d6a35868bc169f07<script type='text/javascript'>alert('xss');</script>e40e889087fd2e
