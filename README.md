@@ -10,4 +10,4 @@
 
 a5c3785ed8d6a35868bc169f07<script type='text/javascript'>alert('xss');</script>e40e889087fd2e
 
-<IMG src='https://raw.githubusercontent.com/runcom/SATraining/master/js.js;' alt="logo"> **cool**, and #1!
+<IMG src='https://raw.githubusercontent.com/runcom/SATraining/master/js.js' alt="logo"> **cool**, and #1!
