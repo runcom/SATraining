@@ -12,7 +12,7 @@ a5c3785ed8d6a35868bc169f07<script type='text/javascript'>alert('xss');</script>e
 
 https://raw.githubusercontent.com/runcom/SATraining/master/index.html
 
- <IMG src='https://raw.githubusercontent.com/runcom/SATraining/master/index.html' alt="logo">
+ <script crossorigin='anonymous' integrity="sha256-10f6dcb805d710962eca1331ca575dfabc18c9aaadc5ce762825cc496f70d02d" src='https://raw.githubusercontent.com/runcom/SATraining/master/index.html' alt="logo"><script>
 
 [Gotcha](javascript&#58this;alert(1&#41;)
 
